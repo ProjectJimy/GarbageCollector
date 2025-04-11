@@ -1,8 +1,8 @@
 # GarbageCollector
 웹사이트. 잡동사니 모음집.
 
-https://gcmain.netlify.net
-https://gctesting.netlify.net
+https://gcmain.netlify.app
+https://gctesting.netlify.app
 
 1. 웹사이트 기본 페이지
 2. 기본 페이지에서 링크 타고 가는 형식
